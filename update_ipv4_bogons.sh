@@ -4,7 +4,7 @@ DATESTAMP=$(date +"%F-%H-%M-%S-%N")
 
 # 
 # printf "EXECUTING --> curl --silent 'http://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt' -o unfiltered_ipv4_data.txt \n"
-curl --silent 'http://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt' -o unfiltered_ipv4_data.txt
+curl --silent 'https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt' -o unfiltered_ipv4_data.txt
 
 # backup origin reference date for bogons
 # printf "EXECUTING --> mv modified_origin_date.txt backup/$DATESTAMP-modified_origin_date.txt \n"
