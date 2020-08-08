@@ -1,0 +1,3 @@
+https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
+https://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt
+https://www.team-cymru.org/Services/Bogons/bogon-bn-agg.txt
